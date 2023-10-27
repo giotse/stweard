@@ -1,2 +1,0 @@
-# stweard
-Stweard application
